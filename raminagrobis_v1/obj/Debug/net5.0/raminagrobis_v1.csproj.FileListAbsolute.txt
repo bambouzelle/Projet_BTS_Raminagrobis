@@ -1,0 +1,16 @@
+C:\code\raminagrobis\raminagrobis_v1\bin\Debug\net5.0\raminagrobis_v1.exe
+C:\code\raminagrobis\raminagrobis_v1\bin\Debug\net5.0\raminagrobis_v1.deps.json
+C:\code\raminagrobis\raminagrobis_v1\bin\Debug\net5.0\raminagrobis_v1.runtimeconfig.json
+C:\code\raminagrobis\raminagrobis_v1\bin\Debug\net5.0\raminagrobis_v1.runtimeconfig.dev.json
+C:\code\raminagrobis\raminagrobis_v1\bin\Debug\net5.0\raminagrobis_v1.dll
+C:\code\raminagrobis\raminagrobis_v1\bin\Debug\net5.0\ref\raminagrobis_v1.dll
+C:\code\raminagrobis\raminagrobis_v1\bin\Debug\net5.0\raminagrobis_v1.pdb
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.csproj.AssemblyReference.cache
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.AssemblyInfoInputs.cache
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.AssemblyInfo.cs
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.csproj.CoreCompileInputs.cache
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.dll
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\ref\raminagrobis_v1.dll
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.pdb
+C:\code\raminagrobis\raminagrobis_v1\obj\Debug\net5.0\raminagrobis_v1.genruntimeconfig.cache

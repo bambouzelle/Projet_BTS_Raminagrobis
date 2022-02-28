@@ -1,0 +1,5 @@
+C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.AssemblyReference.cache
+C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfoInputs.cache
+C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfo.cs
+C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.CoreCompileInputs.cache
