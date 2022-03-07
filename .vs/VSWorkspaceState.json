@@ -7,8 +7,9 @@
     "\\Depot.DAL\\Depot\\obj\\Release",
     "\\Depot.DAL\\Depot\\obj\\Release\\net5.0",
     "\\Raminagrobi.API",
-    "\\Raminagrobi.API\\Controllers"
+    "\\Raminagrobi.API\\Controllers",
+    "\\Raminagrobi.Metier"
   ],
-  "SelectedNode": "\\raminagrobis_v1.sln",
+  "SelectedNode": "\\Raminagrobi.Metier\\SupplierMetier.cs",
   "PreviewInSolutionExplorer": false
 }

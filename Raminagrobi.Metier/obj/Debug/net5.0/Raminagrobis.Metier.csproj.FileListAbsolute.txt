@@ -3,3 +3,9 @@ C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrob
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.AssemblyInfoInputs.cache
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.AssemblyInfo.cs
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.csproj.CoreCompileInputs.cache
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Depot.DAL.dll
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Raminagrobis.Api.Contracts.dll
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Raminagrobis.Api.Contracts.pdb
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.dll
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\ref\Raminagrobis.Metier.dll
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.pdb

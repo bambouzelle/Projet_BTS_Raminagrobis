@@ -44,7 +44,7 @@ namespace Depot.DAL.Depot
             }
             else
             {
-                throw new Exception($"pas de fornisseur");
+                throw new Exception($"pas de fournisseur");
             }
             DetruireConnexionEtCommande();
 

@@ -8,3 +8,10 @@ C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.Generated
 C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfoInputs.cache
 C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfo.cs
 C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.CoreCompileInputs.cache
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\bin\Debug\net5.0\Depot.DAL.deps.json
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\bin\Debug\net5.0\Depot.DAL.dll
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\bin\Debug\net5.0\ref\Depot.DAL.dll
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\bin\Debug\net5.0\Depot.DAL.pdb
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.dll
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\ref\Depot.DAL.dll
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.pdb

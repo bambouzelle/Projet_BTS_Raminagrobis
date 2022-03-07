@@ -18,7 +18,9 @@ namespace Raminagrobis.WPF.ViewModels
 
         public Command MySuperButtonCommand { get; private set; }
 
+#pragma warning disable CS8618 // Le champ '_content' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.
         public MainWindowsViewModel()
+#pragma warning restore CS8618 // Le champ '_content' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.
         {
             Content = new CartViewModel();
             MySuperButtonCommand = new Command(OnMySuperButtonCommand);

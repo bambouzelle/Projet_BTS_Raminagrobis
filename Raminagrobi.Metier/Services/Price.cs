@@ -1,11 +1,11 @@
 ﻿using Raminagrobis.DAL;
-using Raminagrobis.Api.Contracts.Responses;
 using Depot.DAL.Depot;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
+using Raminagrobis.Api.Contracts.Responses;
 
 namespace Raminagrobis.Metier.Services
 {

@@ -15,7 +15,9 @@ namespace Raminagrobis.WPF.ViewModels
     public class MemberViewModel : BaseViewModel
     {
         public IEnumerable<MemberResponse> MemberList { get; set; }
+#pragma warning disable CS8618 // Le propriété 'MemberList' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.
         public MemberViewModel()
+#pragma warning restore CS8618 // Le propriété 'MemberList' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.
         {
             try
             {
