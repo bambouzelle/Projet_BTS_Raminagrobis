@@ -1,0 +1,5 @@
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.csproj.AssemblyReference.cache
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.AssemblyInfoInputs.cache
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.AssemblyInfo.cs
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.csproj.CoreCompileInputs.cache

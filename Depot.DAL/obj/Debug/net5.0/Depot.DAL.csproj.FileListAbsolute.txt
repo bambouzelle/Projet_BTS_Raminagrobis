@@ -3,3 +3,8 @@ C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.GeneratedMSBuildEditor
 C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfoInputs.cache
 C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfo.cs
 C:\code\raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.CoreCompileInputs.cache
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.AssemblyReference.cache
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfoInputs.cache
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfo.cs
+C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.CoreCompileInputs.cache

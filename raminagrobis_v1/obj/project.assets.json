@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\raminagrobis\\raminagrobis_v1\\raminagrobis_v1.csproj",
+      "projectUniqueName": "C:\\code\\Projet_Douleur\\projet_BTS\\raminagrobis_v1\\raminagrobis_v1.csproj",
       "projectName": "raminagrobis_v1",
-      "projectPath": "C:\\code\\raminagrobis\\raminagrobis_v1\\raminagrobis_v1.csproj",
+      "projectPath": "C:\\code\\Projet_Douleur\\projet_BTS\\raminagrobis_v1\\raminagrobis_v1.csproj",
       "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\raminagrobis\\raminagrobis_v1\\obj\\",
+      "outputPath": "C:\\code\\Projet_Douleur\\projet_BTS\\raminagrobis_v1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

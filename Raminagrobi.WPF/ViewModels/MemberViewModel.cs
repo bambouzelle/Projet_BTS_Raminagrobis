@@ -19,8 +19,8 @@ namespace Raminagrobis.WPF.ViewModels
         {
             try
             {
-                var api = RestService.For<IRaminogrobiApi>("https://localhost:5001");
-                //var clientApi = new CartService("https://localhost:5001", new HttpClient());
+                var api = RestService.For<IRaminogrobiApi>("https://localhost:44356");
+                //var clientApi = new CartService("https://localhost:44356", new HttpClient());
                 var result = new List<MemberResponse>();
                 //result.Add(api.GetMembers().Result);
                 result.Add(api.GetMemberById(1).Result);

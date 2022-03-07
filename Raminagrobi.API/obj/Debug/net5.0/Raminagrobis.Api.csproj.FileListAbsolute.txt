@@ -1,0 +1,6 @@
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.csproj.AssemblyReference.cache
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.AssemblyInfoInputs.cache
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.AssemblyInfo.cs
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.csproj.CoreCompileInputs.cache
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.MvcApplicationPartsAssemblyInfo.cache
