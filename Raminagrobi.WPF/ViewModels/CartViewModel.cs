@@ -20,7 +20,7 @@ namespace Raminagrobis.WPF.ViewModels
             //var clientApi = new CartService("http://localhost:5001" new HttpClient());
             var result = new List<CartResponse>();
             //result.Add(api.GetById(1).Result);
-            //result.Add(api.GetCartById(1).Result);
+            //result.Add(api.GetCartById(1).Result); // je ne comprend pas pourquoi c'est bugué
             CartList = result;
         }
     }
