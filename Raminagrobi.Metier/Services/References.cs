@@ -10,6 +10,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
+using Raminagrobis.Api.Contracts.Requests;
 
 namespace Raminagrobis.Metier.Services
 {
@@ -34,14 +35,14 @@ namespace Raminagrobis.Metier.Services
             return new ReferencesMetier(references.ID, references.References, references.Wording, references.Brand, references.Status);
         }
 
-        public void Insert(ReferencesResponse input)
+        public void Insert(ReferencesRequest input)
         {
             var dep = new References_DAL_Depot();
             var references = new References_DAL(input.References, input.Wording, input.Brand, input.Status);
             dep.Insert(references);
         }
 
-        public void Update(int id, ReferencesResponse input)
+        public void Update(int id, ReferencesRequest input)
         {
             var dep = new References_DAL_Depot();
             var references = new References_DAL(id, input.References, input.Wording, input.Brand, input.Status);

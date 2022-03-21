@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using Raminagrobis.Api.Contracts.Responses;
+using Raminagrobis.Api.Contracts.Requests;
 
 namespace Raminagrobis.Metier.Services
 {
@@ -29,14 +30,14 @@ namespace Raminagrobis.Metier.Services
             return new PriceMetier(price.ID, price.Id_global_details, price.Id_supplier, price.Price);
         }
 
-        public void Insert(PriceResponse input)
+        public void Insert(PriceRequest input)
         {
             var dep = new Price_DAL_Depot();
             var price = new Price_DAL(input.IdGlobalDetails, input.IdSupplier, input.Price);
             dep.Insert(price);
         }
 
-        public void Update(int id, PriceResponse input)
+        public void Update(int id, PriceRequest input)
         {
             var dep = new Price_DAL_Depot();
             var price = new Price_DAL(id, input.IdGlobalDetails, input.IdSupplier, input.Price);
