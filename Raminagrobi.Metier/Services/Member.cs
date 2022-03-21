@@ -30,14 +30,14 @@ namespace Raminagrobis.Metier.Services
             return new MemberMetier(member.ID, member.Company, member.Civility, member.Surname, member.Name, member.Email, member.Address, member.Create_at);
         }
 
-        public void Insert(MemberMetier input)
+        public void Insert(MemberRequest input)
         {
             var dep = new Member_DAL_Depot();
             var member = new Member_DAL(input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.CreateAt);
             dep.Insert(member);
         }
 
-        public static void Update(int id, MemberRequest request)
+        public void Update(int id, MemberRequest request)
         {
             var dep = new Member_DAL_Depot();
             var member = new Member_DAL(id, request.Company, request.Civility, request.Surname, request.Name, request.Email, request.Address, request.CreatedAt);
