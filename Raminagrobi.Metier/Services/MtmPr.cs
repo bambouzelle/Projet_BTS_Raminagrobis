@@ -11,6 +11,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using Raminagrobis.Metier;
+using Raminagrobis.Api.Contracts.Requests;
 
 namespace Raminagrobi.Metier.Services
 {
@@ -30,30 +31,30 @@ namespace Raminagrobi.Metier.Services
         public MtmPrMetier GetByID(int id)
         {
             var dep = new Mtm_pr_DAL_Depot();
-            var member = dep.GetByID(id);
-            return new MtmPrMetier(member.ID, member.Id_references, member.Id_supplier);
+            var mtmpr = dep.GetByID(id);
+            return new MtmPrMetier(mtmpr.ID, mtmpr.Id_references, mtmpr.Id_supplier);
         }
 
-        public void Insert(MemberResponse input)
+        public void Insert(MtmPrRequest input)
         {
-            var dep = new Member_DAL_Depot();
-            var member = new Member_DAL(input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.CreatedAt);
-            dep.Insert(member);
+            var dep = new Mtm_pr_DAL_Depot();
+            var mtmpr = new Mtm_pr_DAL(input.IdReferences, input.IdSupplier);
+            dep.Insert(mtmpr);
         }
 
-        public void Update(int id, MemberResponse input)
+        public void Update(int id, MtmPrRequest input)
         {
-            var dep = new Member_DAL_Depot();
-            var member = new Member_DAL(id, input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.CreatedAt);
+            var dep = new Mtm_pr_DAL_Depot();
+            var member = new Mtm_pr_DAL(id, input.IdReferences, input.IdSupplier);
             dep.Update(member);
         }
 
         public void Delete(int id)
         {
-            Member_DAL member;
-            Member_DAL_Depot dep = new Member_DAL_Depot();
-            member = dep.GetByID(id);
-            dep.Delete(member);
+            Mtm_pr_DAL mtmpr;
+            Mtm_pr_DAL_Depot dep = new Mtm_pr_DAL_Depot();
+            mtmpr = dep.GetByID(id);
+            dep.Delete(mtmpr);
         }
     }
 }

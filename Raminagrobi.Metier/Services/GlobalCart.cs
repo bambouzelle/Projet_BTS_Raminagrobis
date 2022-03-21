@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
+using Raminagrobis.Api.Contracts.Requests;
 
 namespace Raminagrobis.Metier.Services
 {
@@ -29,14 +30,14 @@ namespace Raminagrobis.Metier.Services
             return new GlobalCartMetier(globalcart.ID, globalcart.Id_cart, globalcart.Week_order);
         }
 
-        public void Insert(GlobalCartResponse input)
+        public void Insert(GlobalCartRequest input)
         {
             var dep = new Globlal_cart_DAL_Depot();
             var globalcart = new Globlal_cart_DAL(input.IdCart, input.WeekOrder);
             dep.Insert(globalcart);
         }
 
-        public void Update(int id, GlobalCartResponse input)
+        public void Update(int id, GlobalCartRequest input)
         {
             var dep = new Globlal_cart_DAL_Depot();
             var globalcart = new Globlal_cart_DAL(id, input.IdCart, input.WeekOrder);
