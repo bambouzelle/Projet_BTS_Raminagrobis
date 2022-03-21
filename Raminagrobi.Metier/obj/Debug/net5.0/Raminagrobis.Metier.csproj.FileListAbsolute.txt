@@ -9,3 +9,9 @@ C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Raminagrob
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.dll
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\ref\Raminagrobis.Metier.dll
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.pdb
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Raminagrobis.Metier.deps.json
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Raminagrobis.Metier.dll
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\ref\Raminagrobis.Metier.dll
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Raminagrobis.Metier.pdb
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Depot.DAL.pdb
+C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.csproj.CopyComplete

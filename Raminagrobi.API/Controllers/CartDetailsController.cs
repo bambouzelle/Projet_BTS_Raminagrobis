@@ -28,7 +28,7 @@ namespace Raminagrobis.Api.Controllers
 
         [HttpGet]
         [Route("GetAll")]
-        public ActionResult<IEnumerable<MemberResponse>> GetAll()
+        public ActionResult<IEnumerable<CartDetailsResponse>> GetAll()
         {
             var res = _db.GetAll();
 
@@ -40,7 +40,7 @@ namespace Raminagrobis.Api.Controllers
 
         [HttpGet]
         [Route("GetById")]
-        public ActionResult<MemberResponse> GetById(int id)
+        public ActionResult<CartDetailsResponse> GetById(int id)
         {
             if (id <= 0)
                 return BadRequest();
@@ -55,17 +55,19 @@ namespace Raminagrobis.Api.Controllers
 
         [HttpPost]
         [Route("AddMember")]
-        public ActionResult AddMember(MemberRequest request)
+        public ActionResult AddCartDetails(CartDetailsRequest request)
         {
             if (!ModelState.IsValid)
                 return BadRequest();
+
+            _db.Insert(request);
 
             return Ok();
         }
 
         [HttpPut]
         [Route("UpdateMember")]
-        public ActionResult UpdateMember(MemberRequest request, int id)
+        public ActionResult UpdateCartDetails(CartDetailsRequest request, int id)
         {
             if (id <= 0)
                 return BadRequest();
@@ -79,12 +81,14 @@ namespace Raminagrobis.Api.Controllers
             if (!ModelState.IsValid)
                 return BadRequest();
 
+            _db.Update(id, request);
+
             return Ok();
         }
 
         [HttpDelete]
         [Route("Delete")]
-        public ActionResult DeleteMember(int id)
+        public ActionResult DeleteCartDetails(int id)
         {
             if (id <= 0)
                 return BadRequest();
@@ -93,6 +97,8 @@ namespace Raminagrobis.Api.Controllers
 
             if (res == null)
                 return NotFound();
+
+            _db.Delete(id);
 
             return Ok();
         }

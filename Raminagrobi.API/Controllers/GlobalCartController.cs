@@ -59,6 +59,8 @@ namespace Raminagrobis.Api.Controllers
             if (!ModelState.IsValid)
                 return BadRequest();
 
+            _db.Insert(request);
+
             return Ok();
         }
 
@@ -78,6 +80,8 @@ namespace Raminagrobis.Api.Controllers
             if (!ModelState.IsValid)
                 return BadRequest();
 
+            _db.Update(id,request);
+
             return Ok();
         }
 
@@ -92,6 +96,8 @@ namespace Raminagrobis.Api.Controllers
 
             if (res == null)
                 return NotFound();
+
+            _db.Delete(id);
 
             return Ok();
         }
