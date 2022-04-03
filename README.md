@@ -2,7 +2,6 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://avatars.githubusercontent.com/u/52364116?v=4" alt="Logo" width="200" height="200">
   </a>
 
   <h1 align="center"><b>Raminagrobis</b></h1>
