@@ -30,5 +30,5 @@ Ceci est une liste des étapes à suivre pour l'installation et le bon fonctionn
 
 * Créer un dossier (le choix de l'emplacement vous reviens)
   ```sh
-  mkdir raminagrobis && git clone https://github.com/Altaryss/raminagrobis.git
+  mkdir raminagrobis && git clone https://github.com/bambouzelle/Projet_BTS_Raminagrobis.git
   ```
