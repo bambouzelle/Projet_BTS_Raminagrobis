@@ -15,3 +15,11 @@ C:\code\Projet_Douleur\projet_BTS\Depot.DAL\bin\Debug\net5.0\Depot.DAL.pdb
 C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.dll
 C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\ref\Depot.DAL.dll
 C:\code\Projet_Douleur\projet_BTS\Depot.DAL\obj\Debug\net5.0\Depot.DAL.pdb
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.AssemblyReference.cache
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfoInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfo.cs
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.CoreCompileInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.dll
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\ref\Depot.DAL.dll
+C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.pdb

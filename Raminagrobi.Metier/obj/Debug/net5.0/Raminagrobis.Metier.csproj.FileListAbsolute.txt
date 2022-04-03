@@ -15,3 +15,11 @@ C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\ref\Ramina
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Raminagrobis.Metier.pdb
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\bin\Debug\net5.0\Depot.DAL.pdb
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.csproj.CopyComplete
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.csproj.AssemblyReference.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.AssemblyInfoInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.AssemblyInfo.cs
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.csproj.CoreCompileInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\ref\Raminagrobis.Metier.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.Metier\obj\Debug\net5.0\Raminagrobis.Metier.pdb

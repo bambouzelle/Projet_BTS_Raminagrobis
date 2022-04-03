@@ -10,3 +10,15 @@ C:\code\Projet_Douleur\projet_BTS\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Ra
 C:\code\Projet_Douleur\projet_BTS\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.dll
 C:\code\Projet_Douleur\projet_BTS\Raminagrobis.Api.Contracts\obj\Debug\net5.0\ref\Raminagrobis.Api.Contracts.dll
 C:\code\Projet_Douleur\projet_BTS\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.pdb
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\Raminagrobis.Api.Contracts.deps.json
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\Raminagrobis.Api.Contracts.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\ref\Raminagrobis.Api.Contracts.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\Raminagrobis.Api.Contracts.pdb
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.csproj.AssemblyReference.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.AssemblyInfoInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.AssemblyInfo.cs
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\ref\Raminagrobis.Api.Contracts.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.pdb
