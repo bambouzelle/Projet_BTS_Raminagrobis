@@ -305,11 +305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
+      "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
       "projectName": "Raminagrobis.WPF",
-      "projectPath": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
+      "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
       "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobi.WPF\\obj\\",
+      "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -332,8 +332,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
-              "projectPath": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
+            "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
+              "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
             }
           }
         }
@@ -370,7 +370,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.12, 5.0.12]"
+            "version": "[5.0.13, 5.0.13]"
           }
         ],
         "frameworkReferences": {
@@ -381,7 +381,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

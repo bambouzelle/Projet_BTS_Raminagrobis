@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+      "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
       "projectName": "Raminagrobis.Api.Contracts",
-      "projectPath": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+      "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
       "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobis.Api.Contracts\\obj\\",
+      "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

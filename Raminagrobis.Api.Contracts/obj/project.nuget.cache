@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0fni5abLJ1OYtrEozds9mQVUDtqo0MGCmD/0mXAMgn+VAKGGlMAE3YZZhl3YbnuoTMYU4j8jszfJoFJP5bv4Q==",
+  "dgSpecHash": "7iJCGhWn3fHWyP+KqeNaUmwMIJ9q804Mw+2seD3Eh2/QDVFP6NNCvudB1RMGkgB11Pkbm+CHgKiQ4OX6a27Q/A==",
   "success": true,
-  "projectFilePath": "C:\\code\\Projet_Douleur\\projet_BTS\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+  "projectFilePath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -48,3 +48,13 @@ C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\ref\Raminagrobis.Api.dll
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.pdb
 C:\code\Projet_Douleur\projet_BTS\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.genruntimeconfig.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.csproj.AssemblyReference.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.AssemblyInfoInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.AssemblyInfo.cs
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.csproj.CoreCompileInputs.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\ref\Raminagrobis.Api.dll
+C:\Code\Projet_BTS_Raminagrobis\Raminagrobi.API\obj\Debug\net5.0\Raminagrobis.Api.pdb
