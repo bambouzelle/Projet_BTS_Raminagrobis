@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj": {}
+    "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj": {
+    "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj",
         "projectName": "Depot.DAL",
-        "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj",
+        "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Depot.DAL\\obj\\",
+        "outputPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Depot.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -74,18 +74,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj": {
+    "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj",
         "projectName": "Raminagrobis.Metier",
-        "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj",
+        "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\obj\\",
+        "outputPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -108,11 +108,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Code\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj": {
-                "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj"
+              "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj": {
+                "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Depot.DAL\\Depot.DAL.csproj"
               },
-              "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
-                "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
+              "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
+                "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
               }
             }
           }
@@ -141,18 +141,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
+    "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
         "projectName": "Raminagrobis.Api.Contracts",
-        "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+        "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -201,7 +201,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

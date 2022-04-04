@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7iJCGhWn3fHWyP+KqeNaUmwMIJ9q804Mw+2seD3Eh2/QDVFP6NNCvudB1RMGkgB11Pkbm+CHgKiQ4OX6a27Q/A==",
+  "dgSpecHash": "hjP3/BqBdAryJSnJB4WYpRxiChdNxk6WZmPoco2HHvHoxVPAFo0kKQEVhXIgh1uO7hJdEQR0GEXW/ICv0M7aNw==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

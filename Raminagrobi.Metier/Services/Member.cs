@@ -33,7 +33,7 @@ namespace Raminagrobis.Metier.Services
         public void Insert(MemberRequest input)
         {
             var dep = new Member_DAL_Depot();
-            var member = new Member_DAL(input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.CreateAt);
+            var member = new Member_DAL(input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.CreatedAt);
             dep.Insert(member);
         }
 

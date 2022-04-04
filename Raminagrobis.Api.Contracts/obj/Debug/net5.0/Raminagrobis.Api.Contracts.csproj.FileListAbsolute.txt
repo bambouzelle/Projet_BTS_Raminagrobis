@@ -22,3 +22,15 @@ C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Rami
 C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.dll
 C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\ref\Raminagrobis.Api.Contracts.dll
 C:\Code\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.pdb
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\Raminagrobis.Api.Contracts.deps.json
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\Raminagrobis.Api.Contracts.dll
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\ref\Raminagrobis.Api.Contracts.dll
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\bin\Debug\net5.0\Raminagrobis.Api.Contracts.pdb
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.csproj.AssemblyReference.cache
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.AssemblyInfoInputs.cache
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.AssemblyInfo.cs
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.dll
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\ref\Raminagrobis.Api.Contracts.dll
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Raminagrobis.Api.Contracts\obj\Debug\net5.0\Raminagrobis.Api.Contracts.pdb

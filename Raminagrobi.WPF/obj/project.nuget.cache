@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dtnuw6MpeJj5gzIoLXx+uEaaBUF17QnCi34gB19uAJr+lyNDI/TMo1/QUMUgTZMV1z8Bfy7p5nJTZXWOePl2vQ==",
+  "dgSpecHash": "YKqVjsSLCwoy0l3BVR7tNyXSTkRu+n1SPZA2JK7rfroReEKRlVK/MDpZSgAPiUPZB+H8++RLDwDzZ/lFgzzWCw==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
+  "projectFilePath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felix\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\felix\\.nuget\\packages\\refit\\6.2.16\\refit.6.2.16.nupkg.sha512",
@@ -10,7 +10,7 @@
     "C:\\Users\\felix\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\felix\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\felix\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512",
-    "C:\\Users\\felix\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\felix\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }

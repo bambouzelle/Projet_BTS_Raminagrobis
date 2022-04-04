@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj": {}
+    "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj": {
+    "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
         "projectName": "Raminagrobis.WPF",
-        "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
+        "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\Raminagrobis.WPF.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\obj\\",
+        "outputPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
-                "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
+              "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
+                "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
               }
             }
           }
@@ -72,7 +72,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
+              "version": "[5.0.12, 5.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -83,18 +83,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
+    "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
         "projectName": "Raminagrobis.Api.Contracts",
-        "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
+        "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -143,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

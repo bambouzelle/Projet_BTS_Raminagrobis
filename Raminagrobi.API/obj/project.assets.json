@@ -1135,11 +1135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.API\\Raminagrobis.Api.csproj",
+      "projectUniqueName": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.API\\Raminagrobis.Api.csproj",
       "projectName": "Raminagrobis.Api",
-      "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.API\\Raminagrobis.Api.csproj",
+      "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.API\\Raminagrobis.Api.csproj",
       "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.API\\obj\\",
+      "outputPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1162,11 +1162,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj": {
-              "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj"
+            "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj": {
+              "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobi.Metier\\Raminagrobis.Metier.csproj"
             },
-            "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
-              "projectPath": "C:\\Code\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
+            "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj": {
+              "projectPath": "C:\\Users\\felix\\Source\\Repos\\Projet_BTS_Raminagrobis\\Raminagrobis.Api.Contracts\\Raminagrobis.Api.Contracts.csproj"
             }
           }
         }
@@ -1199,7 +1199,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
+            "version": "[5.0.12, 5.0.12]"
           }
         ],
         "frameworkReferences": {
@@ -1210,7 +1210,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
