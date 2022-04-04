@@ -23,3 +23,11 @@ C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.Core
 C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.dll
 C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\ref\Depot.DAL.dll
 C:\Code\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.pdb
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.AssemblyReference.cache
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfoInputs.cache
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.AssemblyInfo.cs
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.csproj.CoreCompileInputs.cache
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.dll
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\ref\Depot.DAL.dll
+C:\Users\felix\Source\Repos\Projet_BTS_Raminagrobis\Depot.DAL\obj\Debug\net5.0\Depot.DAL.pdb

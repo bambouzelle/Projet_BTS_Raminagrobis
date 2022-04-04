@@ -33,14 +33,14 @@ namespace Raminagrobis.Metier.Services
         public void Insert(SupplierRequest input)
         {
             var dep = new Supplier_DAL_Depot();
-            var supplier = new Supplier_DAL(input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.Create_at);
+            var supplier = new Supplier_DAL(input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.CreatedAt);
             dep.Insert(supplier);
         }
 
         public void Update(int id, SupplierRequest input)
         {
             var dep = new Supplier_DAL_Depot();
-            var supplier = new Supplier_DAL(id, input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.Create_at);
+            var supplier = new Supplier_DAL(id, input.Company, input.Civility, input.Surname, input.Name, input.Email, input.Address, input.CreatedAt);
             dep.Update(supplier);
         }
 
