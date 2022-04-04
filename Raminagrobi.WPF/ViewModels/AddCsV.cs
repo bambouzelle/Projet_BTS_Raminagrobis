@@ -1,22 +1,15 @@
-﻿using System;
+﻿using Raminagrobis.WPF.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-using Xamarin.Forms;
-
 namespace Raminagrobis.WPF.ViewModels
 {
-    public class View1 : ContentView
+    public class AddCsV : BaseViewModel
     {
-        public View1()
+        public AddCsV()
         {
-            Content = new StackLayout
-            {
-                Children = {
-                    new Label { Text = "Welcome to Xamarin.Forms!" }
-                }
-            };
         }
     }
 }
